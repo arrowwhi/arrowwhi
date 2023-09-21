@@ -12,9 +12,6 @@
 
 ## Technologies & Tools
 
-
-#### Languages
-
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -27,25 +24,12 @@
 
 ---
 
-#### Databases
-
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
----
-
-#### Operating systems
-
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
-![Alpine Linux](https://img.shields.io/badge/Alpine_Linux-%230D597F.svg?style=for-the-badge&logo=alpine-linux&logoColor=white)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
-
----
-
-#### Other technologies
-
 
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
@@ -59,9 +43,7 @@
 ## Stats
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arrowwhi&theme=github)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arrowwhi&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=arrowwhi&theme=github)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arrowwhi&theme=github&utcOffset=3)
 
 
 ## Contacts
