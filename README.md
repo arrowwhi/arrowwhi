@@ -5,12 +5,6 @@
 </div>
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arrowwhi&theme=github)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arrowwhi&theme=github)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arrowwhi&theme=github)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=arrowwhi&theme=github)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arrowwhi&theme=github&utcOffset=3)
-
 
 ## Technologies & Tools
 
@@ -57,6 +51,14 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 
+
+## Stats
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arrowwhi&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arrowwhi&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arrowwhi&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=arrowwhi&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arrowwhi&theme=github&utcOffset=3)
 
 
 ## Contacts
