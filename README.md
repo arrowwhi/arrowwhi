@@ -1,8 +1,12 @@
-### Hi there 👋
-
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="./GitHubHeader.jpg" width="100%"/>
 </div>
+
+## About me
+
+- 👨‍💻 Current Student of School 21
+- 📚 Сurrently learning Computer science
+- 🎉 Like house music and house parties
 
 
 
@@ -43,7 +47,6 @@
 
 
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
@@ -54,7 +57,6 @@
 
 ## Stats
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arrowwhi&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arrowwhi&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arrowwhi&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=arrowwhi&theme=github)
@@ -63,5 +65,5 @@
 
 ## Contacts
 
-- Telegram: @zakhaarovv
+- Telegram: [@zakhaarovv](https://t.me/zakhaarovv)
 - Email: zakharovivann@gmail.com
