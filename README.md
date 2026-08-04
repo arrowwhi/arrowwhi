@@ -4,9 +4,9 @@
 
 ## About me
 
-- 👨‍💻 Current Student of School 21
-- 📚 Сurrently learning Computer science
-- 🎉 Like house music and house parties
+- 👨‍💻 School 21 Alumni
+- 📚 Go developer
+- 🎉 Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
 
 
 
