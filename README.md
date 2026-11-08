@@ -18,8 +18,8 @@
     <td><b>Backend</b></td>
     <td>
       <img src="https://img.shields.io/badge/gRPC-244C5A?style=flat-square&logo=grpc&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Protobuf-0E5DF5?style=flat-square&logo=buf&logoColor=white"/>
-      <img src="https://img.shields.io/badge/grpc--gateway-4285F4?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Protobuf-0E5DF5?style=flat-square&logo=google&logoColor=white"/>
+      <img src="https://img.shields.io/badge/grpc_gateway-4285F4?style=flat-square&logo=google&logoColor=white"/>
       <img src="https://img.shields.io/badge/chi-00ADD8?style=flat-square&logo=go&logoColor=white"/>
       <img src="https://img.shields.io/badge/Gin-008ECF?style=flat-square&logo=gin&logoColor=white"/>
       <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white"/>
@@ -32,8 +32,8 @@
       <br/>
       <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black"/>
       <img src="https://img.shields.io/badge/NATS-27AAE1?style=flat-square&logo=natsdotio&logoColor=white"/>
-      <img src="https://img.shields.io/badge/pgx-336791?style=flat-square"/>
-      <img src="https://img.shields.io/badge/goose-336791?style=flat-square"/>
+      <img src="https://img.shields.io/badge/pgx-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/goose-336791?style=flat-square&logo=postgresql&logoColor=white"/>
     </td>
   </tr>
   <tr>
@@ -52,9 +52,9 @@
   <tr>
     <td><b>Testing</b></td>
     <td>
-      <img src="https://img.shields.io/badge/testify-00ADD8?style=flat-square&logo=go&logoColor=white"/>
-      <img src="https://img.shields.io/badge/gomock-00ADD8?style=flat-square&logo=go&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Ginkgo-00ADD8?style=flat-square&logo=go&logoColor=white"/>
+      <img src="https://img.shields.io/badge/testify-00ADD8?style=flat-square&logo=go&labelColor=00ADD8&logoColor=white"/>
+      <img src="https://img.shields.io/badge/gomock-00ADD8?style=flat-square&logo=go&labelColor=00ADD8&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Ginkgo-00ADD8?style=flat-square&logo=go&labelColor=00ADD8&logoColor=white"/>
       <img src="https://img.shields.io/badge/Testcontainers-291A3F?style=flat-square&logo=testcontainers&logoColor=white"/>
     </td>
   </tr>
